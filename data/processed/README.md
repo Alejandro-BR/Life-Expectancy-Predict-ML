@@ -30,3 +30,4 @@ El **target** que se busca predecir es **life_expectancy**, es decir, la esperan
 | Economía | income_composition_of_resources | float64 | Composición del ingreso de los recursos del país. |
 | Educación | schooling | float64 | Años promedio de escolaridad. |
 | Información general del país | country_spain, country_italy, …, | int64 | Variables binarias (0/1) que indican a cada país. |
+
